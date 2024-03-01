@@ -3,8 +3,11 @@
 
 In the realm of e-commerce, understanding customer behavior and preferences is paramount for driving revenue growth and maximizing profitability. Our objective is to conduct a comprehensive analysis of customer data to segment the customer base effectively and identify opportunities for revenue optimization.
 
-Background:
+### Background:
 With a dataset containing transactional data including customer demographics, purchase history, and product details, our goal is to gain actionable insights that can inform targeted marketing strategies, product recommendations, and pricing optimization initiatives.
+
+### Dataset: https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository
+This is an Online Retail dataset that documents transactions from an online gift items business that caters to both individual consumers and wholesale buyers based in and outside the UK. The data spans from December 1, 2009, to December 9, 2011.
 
 ### Objectives:
 
